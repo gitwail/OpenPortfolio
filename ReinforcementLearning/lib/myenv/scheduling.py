@@ -190,7 +190,7 @@ for _ in range(11):
 
 shifts=s.gk
 
-shift_duration = 2  # 2 hours
+shift_duration = 3 # 2 hours
 
 result = get_agents_schedule(shifts, shift_duration)
 print(result)
